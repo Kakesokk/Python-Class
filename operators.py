@@ -1,0 +1,8 @@
+print(2+2)
+print(7-2)
+print(78*54)
+print(56/8)
+print(56//8)
+print(876565//3)
+print(9**3)
+print(5%4)
